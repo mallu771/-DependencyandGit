@@ -1,0 +1,58 @@
+  
+
+********git commends**********
+go to browser and  write git bash download click first link
+and download -->window 
+open git bash application 
+click ok
+after click next and install
+create folder and inside folder create filename
+and right click open git bash here
+-->git status
+-->git init
+
+-->git add File1.txt  -->staging area
+
+-->git add .(dot means add all files)
+
+-->git rm --cached file1.txt
+
+-->git diff
+-->git restore filename
+-->git restore .(all file restore)
+
+-->git config user.email "mallu@gmail.com"
+
+-->git config user.name "Mallikarjun"
+-->git   commit -m "first commit"
+
+-->git log
+
+-->git remote add origin "paste url" or git remote set-url origin " url "
+git remote -v
+-->git push origin master or git checkout "master"
+-->after click sign in with browser-->refresh browser
+-->sign in after authorised
+
+-->clear screen -->clear
+
+git  config --global -l -->user check
+git config --global user.email="email"
+git config -l
+git pull "link of global repository"
+*********git commends**************
+temp mail-->temporary email
+******************************************************************
+
+git init -b "Mallikarjun"
+git init
+git checkout -b "Mallikarjun"
+git add.
+git commit -m "Added"
+git remote add origin "paste url"
+https://github.com/saishkulkarni/test.git
+git push origin Mallikarjun
+
+download--->postman
+
+
